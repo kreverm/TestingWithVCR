@@ -1,8 +1,6 @@
 import os
 
 # Consts
-import vcr
-
 URI = 'http://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full.json'
 CASSETTE_NAME = "cassette.yaml"
 CASSETTE_FOLDER = "resource"
